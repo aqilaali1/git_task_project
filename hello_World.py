@@ -1,3 +1,4 @@
-
-# Print a programme that output the sentence
-print("Git is awesome!")
+#programme is storing the variable name as a string
+statement = input("Enter your statement: ")
+#programme is inputting variables into a sentence which will then be printed
+print(statement)
